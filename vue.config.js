@@ -32,6 +32,9 @@ module.exports = {
                         "build/win/*"
                     ]
                 },
+                snap: {
+                    publish: "github"
+                },
             }
         }
     }
