@@ -7,6 +7,7 @@ import path from "path";
 const isDevelopment = process.env.NODE_ENV !== "production";
 
 nativeTheme.themeSource = "dark";
+app.setAppUserModelId("HowBow");
 
 // Scheme must be registered before the app is ready
 protocol.registerSchemesAsPrivileged([
