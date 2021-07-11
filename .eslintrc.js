@@ -20,6 +20,6 @@ module.exports = {
     "comma-dangle": "off",
     "no-unused-vars": "warn",
     "object-curly-newline": ["error", { "ImportDeclaration": "never" }],
-    "linebreak-style": ["error", "windows"]
+    "linebreak-style": "off"
   },
 };
