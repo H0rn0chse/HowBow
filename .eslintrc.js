@@ -19,6 +19,7 @@ module.exports = {
     "quotes": ["error", "double"],
     "comma-dangle": "off",
     "no-unused-vars": "warn",
-    "object-curly-newline": ["error", { "ImportDeclaration": "never" }]
+    "object-curly-newline": ["error", { "ImportDeclaration": "never" }],
+    "linebreak-style": ["error", "windows"]
   },
 };
