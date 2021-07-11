@@ -16,7 +16,7 @@
                 </h1>
 
                 <p class="subheading font-weight-regular">
-                    Got some Updates! (v0.0.4)
+                    Got even more Updates! (v0.0.5)
                 </p>
 
                 <p class="subheading font-weight-regular">
