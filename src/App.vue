@@ -26,20 +26,22 @@
             </div>
 
             <v-spacer></v-spacer>
-
-            <v-btn
-                target="_blank"
-                text
-            >
-                <span class="mr-2">Settings</span>
-                <v-icon>mdi-cog</v-icon>
-            </v-btn>
+            <span class="body-2">
+                Eingeloggt als <i>IchLiebeJulia</i>
+            </span>
             <v-btn
                 target="_blank"
                 text
             >
                 <span class="mr-2">Logout</span>
                 <v-icon>mdi-logout-variant</v-icon>
+            </v-btn>
+            <v-btn
+                target="_blank"
+                text
+            >
+                <span class="mr-2">Settings</span>
+                <v-icon>mdi-cog</v-icon>
             </v-btn>
         </v-app-bar>
 
